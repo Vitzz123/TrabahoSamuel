@@ -9,7 +9,6 @@ public class Lista_de_tarefas {
         this.concluida = false;
     }
 
-    // Getters e Setters...
     public String getDescricao() {
         return descricao;
     }
